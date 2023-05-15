@@ -17,12 +17,11 @@ A Tiktok App- Works on Android.
 - TikTok Like UI
 
 ## Images
-![tiktok login](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/b8f04db6-5e92-4e35-b472-c4ffe3899361)
+![pic](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/a7cf78ea-83bb-4579-91e6-680936d6722e)
 
-![tiktok video](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/2b5a7aab-0bc7-4282-851c-c904a045c87f)
+![tiktok post](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/2b5a7aab-0bc7-4282-851c-c904a045c87f)
 
-![profile](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/ef906ca6-aeb3-4940-bce1-d0e2884bf86e)
-
+![tiktok pic](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/3e292e14-04fc-4f1d-8b8c-70eb8ffd61df)
 
 ## Installation
 After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
