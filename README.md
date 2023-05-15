@@ -19,8 +19,6 @@ A Tiktok App- Works on Android.
 ## Images
 ![tiktok login](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/b8f04db6-5e92-4e35-b472-c4ffe3899361)
 
-![tiktok post](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/7b4096c9-700a-45eb-987a-4dae034a4cdf)
-
 ![tiktok video](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/2b5a7aab-0bc7-4282-851c-c904a045c87f)
 
 ![profile](https://github.com/kenny216/tiktok-clone-flutter/assets/127630486/ef906ca6-aeb3-4940-bce1-d0e2884bf86e)
